@@ -1,0 +1,5 @@
+package com.apalya.model;
+
+public class User {
+
+}

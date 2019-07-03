@@ -1,0 +1,5 @@
+package com.employe.registration;
+
+public class Employee {
+
+}

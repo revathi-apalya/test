@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\Users\Apalya\Documents\workspace-sts-3.9.8.RELEASE\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4035864267.index

@@ -1,0 +1,20 @@
+package com.apalya.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class UserController {
+
+	
+	
+	@RequestMapping(value="/getUser")
+	public String getUser() {
+		System.out.println("controller getuser method");
+		
+		return null;
+		
+	}
+	
+	
+}

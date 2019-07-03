@@ -1,0 +1,9 @@
+package com.additionOperation.add.beans;
+
+public class AddController {
+	public int add(int i,int j) {
+		System.out.println("the sum of given number is =");
+		return i+j;
+	}
+
+}

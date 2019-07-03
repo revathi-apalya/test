@@ -1,0 +1,8 @@
+package com.apalya;
+
+public class AddController {
+	public void add() {
+		System.out.println("this is add controller");
+	}
+
+}

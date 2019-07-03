@@ -1,0 +1,5 @@
+package com.apalya.serviceImpl;
+
+public class UserServiceImpl implements UserService{
+
+}
